@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JKT 48 App</string>
+    <string name="member_jkt48">Member JKT 48</string>
+    <string name="jkt48">JKT 48</string>
+    <string name="about_dev">About DEV</string>
+    <string name="namaku">Isro Muchsin Abdillah</string>
+    <string name="email">isroabdillah@gmail.com</string>
+    <string name="detail">detail</string>
+    <string name="facts">facts</string>
+</resources>
